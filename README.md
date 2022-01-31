@@ -1,2 +1,2 @@
 # FPSoccer
-First Person Soccer Game Prototype
+Online First Person Soccer Game Prototype
